@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SolomonChat (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SolomonChat (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
